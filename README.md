@@ -7,4 +7,5 @@ apriltags2_ros is NOT the original package, it is the folder located inside of t
 Filepath: *workspace*/src/apriltags2_ros/aprilstags2_ros
 
 rs_camera should be in *workspace*/src/realsense/realsense2_camera/launch
+
 base_realsense_node.cpp should be in *workspace*/src/realsense/realsense2_camera/src
